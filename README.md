@@ -1,7 +1,7 @@
 # CodePath-InterviewBit
 
-Solutions to the InterviewBit Checkpoints 1-5
+Solutions to the InterviewBit Assignments
 
 ## Week 3 Assignment
-<img src='Gifs/Week_4_Assignment.gif' title='Week 4 Assignment' width='' alt='Week 4' />
+<img src='Gifs/Week_5_PreSession.gif' title='Week 5 Pre-Session' width='' alt='Week 4' />
 
