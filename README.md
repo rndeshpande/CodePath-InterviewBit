@@ -2,6 +2,6 @@
 
 Solutions to the InterviewBit Assignments
 
-## Week 3 Assignment
-<img src='Gifs/Week_5_PreSession.gif' title='Week 5 Pre-Session' width='' alt='Week 4' />
+## Week 5 Assignment
+<img src='Gifs/Week_5_Assignment.gif' title='Week 5 Assignment' width='' alt='Week 5' />
 
